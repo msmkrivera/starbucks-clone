@@ -1,0 +1,59 @@
+.logo {
+     width: 10%;
+}
+
+.links {
+}
+
+.hero-section {
+     background: url("/assets/hero-bg.jpeg");
+     padding: 10% 0%;
+}
+
+.coffee-not-sweet {
+     background: url("/assets/coffee-not-sweet.jpeg");
+     width: 50%;
+     background-position: center;
+}
+
+.magic-img-parent {
+     background: url("/assets/magic-bg.jpeg ");
+     width: 50%;
+     background-position: center;
+}
+
+.sb-delivery-rider {
+     background: url("/assets/sb-delivery-rider.jpeg");
+     width: 50%;
+     background-position: center;
+}
+
+.bg-light-green {
+     background-color: #d4e9e2;
+}
+
+.bg-green {
+     background-color: #006241;
+     padding: 10% 0%;
+}
+
+.bg-green-two {
+     background-color: #d4e9e2;
+     padding: 10% 0%;
+}
+
+.bg-creamy {
+     background-color: #faf6ee;
+     padding: 10% 0%;
+}
+
+.rotated {
+     writing-mode: vertical-lr;
+     position: absolute;
+     bottom: 0;
+     right: 0;
+}
+
+footer {
+     position: relative;
+}
