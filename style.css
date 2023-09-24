@@ -1,5 +1,6 @@
 .logo {
-     width: 10%;
+     width: 50px;
+     height: auto;
 }
 
 .links {
@@ -12,19 +13,19 @@
 
 .coffee-not-sweet {
      background: url("/assets/coffee-not-sweet.jpeg");
-     width: 50%;
+     height: 25rem;
      background-position: center;
 }
 
 .magic-img-parent {
      background: url("/assets/magic-bg.jpeg ");
-     width: 50%;
+     height: 25rem;
      background-position: center;
 }
 
 .sb-delivery-rider {
      background: url("/assets/sb-delivery-rider.jpeg");
-     width: 50%;
+     height: 25rem;
      background-position: center;
 }
 
@@ -52,6 +53,7 @@
      position: absolute;
      bottom: 0;
      right: 0;
+     top: 0;
 }
 
 footer {
